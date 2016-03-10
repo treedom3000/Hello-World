@@ -2,4 +2,4 @@
 Test
 Test
 Test
-https://www.youtube.com/embed/hrs8omWYN_0
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
